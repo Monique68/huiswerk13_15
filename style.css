@@ -51,6 +51,7 @@ body, div, p, h2 {
     display: block;
     text-align: initial;
     margin: auto;
+    padding-top: 5px;
   }
 
 table {
@@ -95,4 +96,5 @@ footer {
     padding-right: 35px;
     padding-bottom: 5px;
 }
+
    
